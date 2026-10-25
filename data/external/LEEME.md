@@ -1,0 +1,1 @@
+# Altitud del DEM Copernicus GLO-90 vía https://api.open-meteo.com/v1/elevation (consultado 2026-10-25), con las coordenadas de data/raw/coordenadas_estaciones.csv (latitud de L5 corregida a negativa).

@@ -1,0 +1,7 @@
+# Datos crudos y procesados: pesados y no necesarios para el dashboard
+data/raw/
+data/processed/*
+!data/processed/estaciones.csv
+__pycache__/
+*.pyc
+.venv/
